@@ -2,7 +2,7 @@
 
 A simple, responsive, easy-to-edit wedding website template.
 
-[Demo](https://jasonlutterloh.github.io/wedding-site-template/)
+[Demo](https://lutterlohdev.github.io/wedding-site-template/)
 
 ## Overview
 
